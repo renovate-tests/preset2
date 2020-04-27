@@ -1,3 +1,3 @@
 {
-  "extends": [":enableRenovate"]
+  "extends": ["config:base"]
 }
